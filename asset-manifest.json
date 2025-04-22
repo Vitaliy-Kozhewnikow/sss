@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Vitaliy-Kozhewnikow/sss/static/css/main.8631ed39.css",
+    "main.js": "/Vitaliy-Kozhewnikow/sss/static/js/main.201c3357.js",
+    "static/css/511.31d6cfe0.chunk.css": "/Vitaliy-Kozhewnikow/sss/static/css/511.31d6cfe0.chunk.css",
+    "static/js/511.7c0ee8e4.chunk.js": "/Vitaliy-Kozhewnikow/sss/static/js/511.7c0ee8e4.chunk.js",
+    "static/css/575.31d6cfe0.chunk.css": "/Vitaliy-Kozhewnikow/sss/static/css/575.31d6cfe0.chunk.css",
+    "static/js/575.bc829ba7.chunk.js": "/Vitaliy-Kozhewnikow/sss/static/js/575.bc829ba7.chunk.js",
+    "static/css/172.90b0647a.chunk.css": "/Vitaliy-Kozhewnikow/sss/static/css/172.90b0647a.chunk.css",
+    "static/js/172.e87ffbb6.chunk.js": "/Vitaliy-Kozhewnikow/sss/static/js/172.e87ffbb6.chunk.js",
+    "static/js/308.574c8556.chunk.js": "/Vitaliy-Kozhewnikow/sss/static/js/308.574c8556.chunk.js",
+    "static/media/defaultAva.jpg": "/Vitaliy-Kozhewnikow/sss/static/media/defaultAva.8b5f6aaa55595f322823.jpg",
+    "index.html": "/Vitaliy-Kozhewnikow/sss/index.html",
+    "static/media/infinite-spinner.svg": "/Vitaliy-Kozhewnikow/sss/static/media/infinite-spinner.3f91e8809ab59201827774dac8a1b0ad.svg",
+    "main.8631ed39.css.map": "/Vitaliy-Kozhewnikow/sss/static/css/main.8631ed39.css.map",
+    "main.201c3357.js.map": "/Vitaliy-Kozhewnikow/sss/static/js/main.201c3357.js.map",
+    "511.7c0ee8e4.chunk.js.map": "/Vitaliy-Kozhewnikow/sss/static/js/511.7c0ee8e4.chunk.js.map",
+    "575.bc829ba7.chunk.js.map": "/Vitaliy-Kozhewnikow/sss/static/js/575.bc829ba7.chunk.js.map",
+    "172.90b0647a.chunk.css.map": "/Vitaliy-Kozhewnikow/sss/static/css/172.90b0647a.chunk.css.map",
+    "172.e87ffbb6.chunk.js.map": "/Vitaliy-Kozhewnikow/sss/static/js/172.e87ffbb6.chunk.js.map",
+    "308.574c8556.chunk.js.map": "/Vitaliy-Kozhewnikow/sss/static/js/308.574c8556.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8631ed39.css",
+    "static/js/main.201c3357.js"
+  ]
+}

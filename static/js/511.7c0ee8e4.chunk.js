@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfirst_project=self.webpackChunkfirst_project||[]).push([[511],{511:(s,e,c)=>{c.r(e),c.d(e,{default:()=>t});var r=c(579);const t=s=>(0,r.jsx)("div",{children:"Music"})}}]);
+//# sourceMappingURL=511.7c0ee8e4.chunk.js.map
